@@ -2,7 +2,9 @@
 A collection of papers on text mining for materials science. **Note: this is a work in progress, I will constantly update this page.**
 
 If you find an interesting paper and would like to add it here, please create a PR request.
-
+##Intersting Papers
+- [VisualUrText: A Text Analytics Tool for Unstructured Textual Data](https://iopscience.iop.org/article/10.1088/1742-6596/1018/1/012011):  This tool, VisualUrText, is developed to assist students and researchers for extracting interesting patterns and trends in document analyses.
+- [Feature extraction for document text using Latent Dirichlet Allocation](https://iopscience.iop.org/article/10.1088/1742-6596/953/1/012047): feature extraction using kmeans
 ## Tools and codes
 
 ### Plain text
@@ -10,7 +12,7 @@ If you find an interesting paper and would like to add it here, please create a 
 - [spaCy](https://spacy.io): Fast NLP toolkit with pre-built deep learning models for tokenization, NER, POS, dependency parsing, word2vec, etc.
 - [textacy](https://github.com/chartbeat-labs/textacy): Pre-/post- processing of text used in conjunction with spaCy, such as text normalization, garbage text cleaning, extraction of ngrams, entities, etc.
 - [ChemDataExtractor](http://chemdataextractor.org/): A full-fledged toolkit for sentence segmentation, tokenization, chemical NER, and extracting chemical information.
-
+- []
 ### PDF files
 - [PDFMiner](https://github.com/pdfminer/pdfminer.six): A pure Python implementation of PDF parser.
 - [textract](https://textract.readthedocs.io/en/stable/): A bundle of markup-to-plain-text converters including PDF files.
